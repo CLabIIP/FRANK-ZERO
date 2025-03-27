@@ -1,6 +1,6 @@
 # <span style="font-weight: bold; color: red;">FRANK-ZERO</span>: a FiRst And Naïve r1-liKe multimodal LLMs
 
-[📂GitHub📂 GitHub](https://github.com/hcwei13/FRANK-ZERO-Inference) [🤗HF🤗 HF](https://huggingface.co/hcwei/FRANK-ZERO-38B)
+[📂GitHub](https://github.com/hcwei13/FRANK-ZERO-Inference) [🤗HF](https://huggingface.co/hcwei/FRANK-ZERO-38B)
 
 ## Introduction
 
